@@ -61,8 +61,27 @@ li#first {
 body{
     background: cover;
     background-color: Grey;
-}
-
+    font-family: "Century Gothic", Verdana, sans-serif;
+    color: #FAFAFA;
+   }
+   img.personal{
+       float: left;
+       box-shadow: 2px 2px 2px 15px;
+       border-radius: 15px;
+   }
+.text{
+    padding:30px 0px 0px 370px;
+    }
+h1{
+    display: inline; 
+    }
+.bioPage div.container{
+        float:left;
+        padding: 100px 0px 0px 10px;
+    }
+p{
+        text-align: justify;
+    }
 
 
 .form-area
@@ -79,4 +98,7 @@ body{
         background-color: #2BA163;
         color: white;
         margin-left: 400px;
+    }
+    .container{
+        padding: 80px 120px;
     }
