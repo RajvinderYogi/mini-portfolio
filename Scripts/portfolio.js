@@ -1,4 +1,5 @@
 /*Author Name= Rajvinder Singh Yogi
+Student Number=200353207
 Website= Mini-portfolio
 File Name= portfolio.js
 This file includes all the styling properties which makes this website attractive and Improve the design
